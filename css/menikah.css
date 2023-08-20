@@ -623,7 +623,7 @@ body.preloader-site {
 .foto6 {
   background-image: url("../image/HKH08688.JPG");
   background-size: cover;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   min-height: 24rem;
 }
